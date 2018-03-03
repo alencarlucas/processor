@@ -15,14 +15,14 @@
 
 # Ignore Quartus II generated folders
 *_sim
-*/db
-*/greybox_tmp
-*/incremental_db
-*/simulation
-*/testbench
-*/timing
-*/output_files
-*/.qsys_edit
+src/main/modules/*/db
+src/main/modules/*/greybox_tmp
+src/main/modules/*/incremental_db
+src/main/modules/*/simulation
+src/main/modules/*/testbench
+src/main/modules/*/timing
+src/main/modules/*/output_files
+src/main/modules/*/.qsys_edit
 
 # Ignore Quartus II generated files
 *_generation_script*
@@ -59,3 +59,6 @@
 
 # Ignore Terasic-generated markup
 *.htm
+
+# VSCode
+.vscode
