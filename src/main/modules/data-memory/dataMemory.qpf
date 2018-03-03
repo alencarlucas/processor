@@ -19,13 +19,13 @@
 #
 # Quartus Prime
 # Version 17.0.2 Build 602 07/19/2017 SJ Lite Edition
-# Date created = 13:06:13  March 03, 2018
+# Date created = 15:58:02  March 03, 2018
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "17.0"
-DATE = "13:06:13  March 03, 2018"
+DATE = "15:58:02  March 03, 2018"
 
 # Revisions
 
-PROJECT_REVISION = "ALU"
+PROJECT_REVISION = "dataMemory"

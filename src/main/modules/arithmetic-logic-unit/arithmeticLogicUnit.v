@@ -1,8 +1,8 @@
-module ALU(
-    opCode,
-    inputData1,
-    inputData2,
-    outputData
+module arithmeticLogicUnit(
+  opCode,
+  inputData1,
+  inputData2,
+  outputData
 );
 
 parameter DATA_WIDTH = 32;
