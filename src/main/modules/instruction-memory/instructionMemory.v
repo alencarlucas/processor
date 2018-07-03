@@ -1,11 +1,11 @@
 module instructionMemory(
-    writeClock,
-    readClock,
-    writeEnable,
-    writeAddr,
-    readAddr,
-    writeData,
-    readData
+  writeClock,
+  readClock,
+  writeEnable,
+  writeAddr,
+  readAddr,
+  writeData,
+  readData
 );
 
 parameter DATA_WIDTH = 32;
