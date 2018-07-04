@@ -19,13 +19,13 @@
 #
 # Quartus Prime
 # Version 17.0.2 Build 602 07/19/2017 SJ Lite Edition
-# Date created = 21:47:35  July 03, 2018
+# Date created = 22:09:01  July 03, 2018
 #
 # -------------------------------------------------------------------------- #
 
 QUARTUS_VERSION = "17.0"
-DATE = "21:47:35  July 03, 2018"
+DATE = "22:09:01  July 03, 2018"
 
 # Revisions
 
-PROJECT_REVISION = "instructionMemory"
+PROJECT_REVISION = "writeClockFrequencyDivider"

@@ -9,7 +9,7 @@ module instructionMemory(
 );
 
 parameter DATA_WIDTH = 32;
-parameter INSTRUCTIONMEM_ADDR_WIDTH = 13;
+parameter INSTRUCTIONMEM_ADDR_WIDTH = 11;
 parameter RAM_DEPTH = 1 << INSTRUCTIONMEM_ADDR_WIDTH;
 
 input writeClock;
